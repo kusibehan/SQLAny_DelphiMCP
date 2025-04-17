@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "CalculatorService": {
+      "command": "C:\\wwprog\\ProjectBasedLearning\\DelphiMCP\\MCP Dir Project\\Win32\\Debug\\MCPForDelphi.exe",
+      "protocol": "stdio",
+      "args": []
+    }
+  }
+}
